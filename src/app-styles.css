@@ -1,0 +1,20 @@
+.WelcomeMessage{
+    color: rgb(30, 51, 51);
+    font-size: 10pt;
+    text-align: center;
+}
+.container{
+    display: grid;
+    gap: 2vw;
+    grid-template-columns: 1fr;
+    padding: 0px;
+}
+.youtube{
+    margin-top: 5vh;
+}
+.btn-suggest{
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 20px;
+    background-color: dimgray;
+}

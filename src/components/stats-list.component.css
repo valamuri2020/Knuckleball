@@ -1,0 +1,25 @@
+.list{
+    font-weight: 0;
+    font-size: 20px;
+}
+
+.username{
+    color:#074141;
+    font-style: bold;
+}
+.goalsScored{
+    color:#46337a;
+}
+
+.headers{
+    color: #DCDCDC;
+}
+.assists{
+    color: #DCDCDC;
+}
+.date{
+color: #DCDCDC;
+}
+td{
+    color: silver;
+}

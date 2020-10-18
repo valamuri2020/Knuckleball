@@ -1,0 +1,13 @@
+.CreateStatsHeader{
+    font-size: 18pt;
+    color: rgb(119, 12, 34);
+}
+label{
+    font-size: 14;
+    color: rgb(48, 6, 73);
+}
+body{
+    background-image: url('https://www.presstelegram.com/wp-content/uploads/2020/02/xxxx_spo_ocr-l-soccer-generic-stock-001-21.jpg');
+    background-size: cover;
+}
+
