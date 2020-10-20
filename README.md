@@ -9,5 +9,7 @@
 ### Your statistics
 ![Stats table](https://github.com/valamuri2020/test-gif/blob/master/gifs/alll%20stats.gif)
 
+### Youtube Suggestions
+![YT Suggestions](https://github.com/valamuri2020/test-gif/blob/master/gifs/Youtube%20Suggestions.gif)
 
 #### Coming soon - your progress displayed on a chart!
