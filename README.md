@@ -1,11 +1,13 @@
 ## Knuckleball is a web application that helps young soccer players keep track of their soccer statistics. This was built using the MERN stack.
 
 ### Create a new user
+![New User](https://github.com/valamuri2020/test-gif/blob/master/gifs/New%20User.gif)
 
 ### Add new statistics
+![Enter Stats Demo](https://github.com/valamuri2020/test-gif/blob/master/gifs/Enter%20Stats.gif)
 
-### Add new statistics
+### Your statistics
+![Stats table](https://github.com/valamuri2020/test-gif/blob/master/gifs/alll%20stats.gif)
 
-### Youtube Suggestions for you
-//![Exponential Function Demo](https://github.com/valamuri2020/Advanced-Functions-Calculator/blob/master/README/Exponential.gif)
+
 #### Coming soon - your progress displayed on a chart!
