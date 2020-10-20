@@ -7,5 +7,5 @@
 ### Add new statistics
 
 ### Youtube Suggestions for you
-![Exponential Function Demo](https://github.com/valamuri2020/Advanced-Functions-Calculator/blob/master/README/Exponential.gif)
+//![Exponential Function Demo](https://github.com/valamuri2020/Advanced-Functions-Calculator/blob/master/README/Exponential.gif)
 #### Coming soon - your progress displayed on a chart!
