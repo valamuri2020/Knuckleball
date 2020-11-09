@@ -1,5 +1,5 @@
 # Knuckleball  
-- - - -
+
 Over the last few summers, I noticed that we've had fewer and fewer games each year. Why? What could possibly be more enticing than a thrilling match of close calls, dives, saves and skills? Turns out, it's fantasy soccer.  So now, the key was to bring a new aspect of competition, rewards and progress system into the real world. In order to make real soccer more like a "game," I needed to develop a method to "game-ify" this game. That's why Knuckleball - an easy way to track your progress, compare and compete with friends, and most of all, stay active! 
 
 #### Features
